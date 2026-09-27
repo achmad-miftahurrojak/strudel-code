@@ -2,7 +2,9 @@
 
 # Strudel Music Patterns
 
-[English](README.md) · [Bahasa Indonesia](README.id.md) · [한국어](README.ko.md)
+<a href="README.md"><img alt="English" src="https://img.shields.io/badge/English-DFE0E5"></a> <a href="README.id.md"><img alt="Bahasa Indonesia" src="https://img.shields.io/badge/Bahasa%20Indonesia-DFE0E5"></a> <a href="README.ko.md"><img alt="한국어" src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-DFE0E5"></a>
+
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"> <img alt="Strudel" src="https://img.shields.io/badge/Strudel-Live%20Coding-2563EB"> <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
 
 Kumpulan pattern live coding untuk musik algoritmik dan sound design.
 
@@ -38,4 +40,3 @@ Komposisi berlapis dengan synth lead, bass, drum, efek distorsi/filter/delay, st
 ## Lisensi
 
 [MIT](LICENSE)
-
