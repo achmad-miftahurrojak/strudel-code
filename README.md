@@ -2,6 +2,8 @@
 
 # Strudel Music Patterns
 
+[English](README.md) · [Bahasa Indonesia](README.id.md) · [한국어](README.ko.md)
+
 A small collection of live-coded patterns for algorithmic music and sound design.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E) ![Strudel](https://img.shields.io/badge/Strudel-Live%20Coding-2563EB) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -52,4 +54,3 @@ A multi-layer arrangement with:
 ## License
 
 [MIT](LICENSE)
-
